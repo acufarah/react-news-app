@@ -23,3 +23,7 @@ header input{
     justify-content: center;
 
 }
+
+.news_item{
+    background: red;
+}
