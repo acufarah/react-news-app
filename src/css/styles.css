@@ -1,0 +1,25 @@
+body {
+    margin:0;
+}
+
+header {
+    background: #03a9f4;
+    padding-bottom: 20px;
+}
+
+.logo {
+     color: #fff;
+     font-size: 50px;
+     font-family: 'Special Elite';
+     text-align: center;
+     padding-top: 30px;
+     padding-bottom: 15px;
+}
+
+header input{
+    font-size: 20px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+
+}

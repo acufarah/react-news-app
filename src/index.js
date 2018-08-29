@@ -1,12 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
+//Components
+import Header from './components/header'
 
 const App = () => {
     return (
         <div>
-        <h1>Hello World!!!</h1>
-        <h2>Hey</h2>
+        <Header/>
         </div>
         )
 };
